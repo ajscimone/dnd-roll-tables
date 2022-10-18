@@ -3,7 +3,8 @@ import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 import Home from "./components/Home.js";
 import NavBar from "./components/Nav.js";
-import NpcNames from "./components/NpcNames.js";
+import NpcNames from "./components/NpcNames";
+import Encounters from "./components/Encounters";
 
 class App extends Component {
 
@@ -14,6 +15,7 @@ class App extends Component {
         <Route path="/" element={<NavBar />}>
           <Route index element={<Home />} />
           <Route path="npc-names" element={<NpcNames />} />
+          <Route path="encounters" element={<Encounters />} />
         </Route>
       </Routes>
     </BrowserRouter>
