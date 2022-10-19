@@ -239,7 +239,7 @@
 		]
 	},
 
-	"Desert ": {
+	"Desert": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"3d8", "monsters":"scorpions"},
 			{"range": "02", "quantity":"2d4", "monsters":"vultures"},
@@ -408,7 +408,7 @@
 		]
 	},
 
-	"Forest ": {
+	"Forest": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"1", "monsters":"giant owl"},
 			{"range": "02", "quantity":"1d4", "monsters":"cats"},
@@ -623,7 +623,7 @@
 		]
 	},
 
-	"Grassland ": {
+	"Grassland": {
 		"Levels 1-5": [
 			{"range": "01", "quantity":"1", "monsters":"hobgoblin captain with 1d4 + 1 hobgoblins"},
 			{"range": "02", "quantity":"1", "monsters":"chimera"},
@@ -748,7 +748,7 @@
 		]
 	},
 
-	"Hill ": {
+	"Hill": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"1", "monsters":"eagle"},
 			{"range": "02-03", "quantity":"2d4", "monsters":"baboons"},
@@ -918,7 +918,7 @@
 		]
 	},
 
-	"Mountain ": {
+	"Mountain": {
 		"Levels 1-4": [
 			{"range": "01-02", "quantity":"1", "monsters":"eagle"},
 			{"range": "03-05", "quantity":"1d3", "monsters":"swarms of bats"},
@@ -1053,7 +1053,7 @@
 			{"range": "97-00", "quantity":"1", "monsters":"ancient red dragon"}
 		]
 	},
-	"Swamp ": {
+	"Swamp": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"1d4", "monsters":"poisonous snakes"},
 			{"range": "02-05", "quantity":"3d6", "monsters":"rats"},
@@ -1162,7 +1162,7 @@
 			{"range": "97-00", "quantity":"1", "monsters":"ancient black dragon"}
 		]
 	},
-	"Underdark ": {
+	"Underdark": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"1", "monsters":"mind flayer arcanist"},
 			{"range": "02", "quantity":"1d3 + 1", "monsters":"giant poisonous snakes"},
@@ -1437,7 +1437,7 @@
 			{"range": "00", "quantity":"2d4", "monsters":"aboleths"}
 		]
 	},
-	"Underwater ": {
+	"Underwater": {
 		"Levels 1-4": [
 			{"range": "01-10", "quantity":"3d6", "monsters":"quippers"},
 			{"range": "11-14", "quantity":"2d4", "monsters":"steam mephits"},
@@ -1502,7 +1502,7 @@
 			{"range": "00", "quantity":"1", "monsters":"kraken"}
 		]
 	},
-	"Urban ": {
+	"Urban": {
 		"Levels 1-4": [
 			{"range": "01", "quantity":"1d6", "monsters":"cats"},
 			{"range": "02-03", "quantity":"1", "monsters":"commoner with 1d6 goats"},

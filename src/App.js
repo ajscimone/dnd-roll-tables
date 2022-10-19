@@ -7,7 +7,6 @@ import NpcNames from "./components/NpcNames";
 import Encounters from "./components/Encounters";
 
 class App extends Component {
-
   render() {
     return (
       <BrowserRouter>

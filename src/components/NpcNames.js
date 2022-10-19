@@ -437,7 +437,6 @@ class NpcNames extends Component {
                 </Alert>
             </Col>
           </Row>
-
         </Container>
       </div>
     );
