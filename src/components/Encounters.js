@@ -20,20 +20,12 @@ function Encounters (props) {
 
   const handleButtonClick = (event) => {
     let currentRatings = GetChallengeRatingsByEnvironment(currentEnvironment)
-    let validRating = false
-    currentRatings.forEach(element => {
-      if (rating === element){
-        validRating = true;
-      }
-    });
-    if (validRating){
+    if (currentRatings.includes(rating)){
       let encounter = GetEncounter(currentEnvironment, rating)
       setEncounter(encounter)
       setShow(true)
       setShowWarning(false)
     } else {
-      //setEncounter("You need to select a Party Level")
-      console.log("hit")
       setShowWarning(true)
     }
   };
@@ -102,8 +94,7 @@ function Encounters (props) {
                   <strong className="me-auto">{encounter}</strong>
                 </Toast.Header>
               </Toast>
-
-              <Toast className="d-inline-block m-1" bg="warning" onClose={() => showWarning(false)} show={showWarning}>
+              <Toast className="d-inline-block m-1" bg="warning" onClose={() => setShowWarning(false)} show={showWarning}>
                 <Toast.Header>
                   <strong className="me-auto">Warning</strong>
                 </Toast.Header>
