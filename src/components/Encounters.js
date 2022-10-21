@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {CreateEncounterTables, GetEncounter, GetEnvironments, GetChallengeRatingsByEnvironment} from "../util/encounter-tables";
+import {CreateEncounterTables, GetEncounter, GetEnvironments, GetChallengeRatingsByEnvironment} from "../util/encounterTables";
 
 import { Container, Col, Row, ToggleButtonGroup, ToggleButton, ListGroup, Button, ButtonGroup, Toast  } from "react-bootstrap";
 

@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Toast from 'react-bootstrap/Toast';
 
-import {randomArrayEntry} from "../util/randomArrayEntry"
+import randomArrayEntry from "../util/randomArrayEntry"
 
 function NameGenerator(props) {
   const [show, setShow] = useState(false);
