@@ -4,6 +4,8 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Toast from 'react-bootstrap/Toast';
 
+import randomArrayEntry from "../util/randomArrayEntry"
+
 function NameGenerator(props) {
   const [show, setShow] = useState(false);
   const [firstname, setFirstname] = useState(null);
@@ -11,10 +13,10 @@ function NameGenerator(props) {
 
   const handleButtonClick = (event) => {
     if (props.firstnames){
-      setFirstname(props.firstnames[Math.floor(Math.random()*props.firstnames.length)])
+      setFirstname(randomArrayEntry(props.firstnames))
     }
     if (props.lastnames){
-      setLastname(props.lastnames[Math.floor(Math.random()*props.lastnames.length)])
+      setLastname(randomArrayEntry(props.lastnames))
     }
     
     setShow(true)

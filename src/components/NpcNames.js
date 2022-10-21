@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import NpcData from "../data/xanthars-character-names.json";
-
 import { Container, Col, Row, Alert } from "react-bootstrap";
+
+import NpcData from "../data/xanthars-character-names.json";
 import NameGenerator from "./NameGenerator";
 
 class NpcNames extends Component {
@@ -437,7 +437,6 @@ class NpcNames extends Component {
                 </Alert>
             </Col>
           </Row>
-
         </Container>
       </div>
     );
