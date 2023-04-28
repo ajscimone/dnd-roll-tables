@@ -1,0 +1,1914 @@
+{
+    "Minor Items": {
+      "Common": [
+        {
+          "Item": "Armor of gleaming",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bead of nourishment",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bead of refreshment",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Boots of false tracks",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Candle of the deep",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cast-off armor",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Charlatan's die",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cloak of billowing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cloak of many fashions",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Clockwork amulet",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Clothes of mending",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dark shard amulet",
+          "Type": "Wondrous item",
+          "Attune": "Yes (warlock)"
+        },
+        {
+          "Item": "Dread helm",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ear horn of hearing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Enduring spellbook",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ersatz eye",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Hat of vermin",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Hat of wizardry",
+          "Type": "Wondrous item",
+          "Attune": "Yes (wizard)"
+        },
+        {
+          "Item": "Heward's handy spice pouch",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Horn of silent alarm",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Instrument of illusions",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Instrument of scribing",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Lock of trickery",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Moon-touched sword",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mystery key",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Orb of direction",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Orb of time",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Perfume of bewitching",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Pipe of smoke monsters",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Pole of angling",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Pole of collapsing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Pot of awakening",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of climbing",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of healing",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Rope of mending",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ruby of the war mage",
+          "Type": "Wondrous item",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Shield of expression",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Smoldering armor",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (cantrip)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (1st level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Staff of adornment",
+          "Type": "Staff",
+          "Attune": "No"
+        },
+        {
+          "Item": "Staff of birdcalls",
+          "Type": "Staff",
+          "Attune": "No"
+        },
+        {
+          "Item": "Staff of flowers",
+          "Type": "Staff",
+          "Attune": "No"
+        },
+        {
+          "Item": "Talking doll",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Tankard of sobriety",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Unbreakable arrow",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Veteran's cane",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Walloping ammunition",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of conducting",
+          "Type": "Wand",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of pyrotechnics",
+          "Type": "Wand",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of scowls",
+          "Type": "Wand",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of smiles",
+          "Type": "Wand",
+          "Attune": "No"
+        }
+      ],
+      "Uncommon": [
+        {
+          "Item": "Alchemy jug",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ammunition, +1",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bag of holding",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cap of water breathing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cloak of the manta ray",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Decanter of endless water",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Driftglobe",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dust of disappearance",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dust of dryness",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dust of sneezing and choking",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Elemental gem",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Eyes of minute seeing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Goggles of night",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Helm of comprehending languages",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Immovable rod",
+          "Type": "Rod",
+          "Attune": "No"
+        },
+        {
+          "Item": "Keoghtom’s ointment",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Lantern of revealing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mariner’s armor",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mithral armor",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Oil of slipperiness",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Periapt of health",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Philter of love",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of animal friendship",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of fire breath",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of healing, greater",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of growth",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of hill giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of poison",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of resistance",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of water breathing",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ring of swimming",
+          "Type": "Ring",
+          "Attune": "No"
+        },
+        {
+          "Item": "Robe of useful items",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Rope of climbing",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Saddle of the cavalier",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Sending stones",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (2nd level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (3rd level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of magic detection",
+          "Type": "Wand",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of secrets",
+          "Type": "Wand",
+          "Attune": "No"
+        }
+      ],
+      "Rare": [
+        {
+          "Item": "Ammunition, +2",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bag of beans",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bead of force",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Chime of opening",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Elixir of health",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Folding boat",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Heward’s handy haversack",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Horseshoes of speed",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Necklace of fireballs",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Oil of etherealness",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Portable hole",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of clairvoyance",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of diminution",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of fire giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of frost giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of gaseous form",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of heroism",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of invulnerability",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of mind reading",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of stone giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of healing, superior",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Quaal’s feather token",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Scroll of protection",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (4th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (5th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        }
+      ],
+      "Very Rare": [
+        {
+          "Item": "Ammunition, +3",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Arrow of slaying",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bag of devouring",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Horseshoes of a zephyr",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Nolzur’s marvelous pigments",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Oil of sharpness",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of cloud giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of flying",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of invisibility",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of longevity",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of speed",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of healing, supreme",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Potion of vitality",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (6th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (7th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (8th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        }
+      ],
+      "Legendary": [
+        {
+          "Item": "Potion of storm giant strength",
+          "Type": "Potion",
+          "Attune": "No"
+        },
+        {
+          "Item": "Sovereign glue",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spell scroll (9th level)",
+          "Type": "Scroll",
+          "Attune": "No"
+        },
+        {
+          "Item": "Universal solvent",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        }
+      ]
+    },
+    "Major Items": {
+      "Uncommon": [
+        {
+          "Item": "Adamantine armor",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Amulet of proof against detection and location",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Bag of tricks",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Boots of elvenkind",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Boots of striding and springing",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Boots of the winterlands",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Bracers of archery",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Brooch of shielding",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Broom of flying",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Circlet of blasting",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cloak of elvenkind",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cloak of protection",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Deck of illusions",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Eversmoking bottle",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Eyes of charming",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Eyes of the eagle",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Figurine of wondrous power (silver raven)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Gauntlets of ogre power",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Gem of brightness",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Gloves of missile snaring",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Gloves of swimming and climbing",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Gloves of thievery",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Hat of disguise",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Headband of intellect",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Helm of telepathy",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Instrument of the bards (Doss lute)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Instrument of the bards (Fochlucan bandore)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Instrument of the bards (Mac-Fuirmidh cittern)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Javelin of lightning",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Medallion of thoughts",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Necklace of adaptation",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Pearl of power",
+          "Type": "Wondrous item",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Periapt of wound closure",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Pipes of haunting",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Pipes of the sewers",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Quiver of Ehlonna",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ring of jumping",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of mind shielding",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of warmth",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of water walking",
+          "Type": "Ring",
+          "Attune": "No"
+        },
+        {
+          "Item": "Rod of the pact keeper, +1",
+          "Type": "Rod",
+          "Attune": "Yes (warlock)"
+        },
+        {
+          "Item": "Sentinel shield",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Shield, +1",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Slippers of spider climbing",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Staff of the adder",
+          "Type": "Staff",
+          "Attune": "Yes (cleric, druid, or warlock)"
+        },
+        {
+          "Item": "Staff of the python",
+          "Type": "Staff",
+          "Attune": "Yes (cleric, druid, or warlock)"
+        },
+        {
+          "Item": "Stone of good luck (luckstone)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Sword of vengeance",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Trident of fish command",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Wand of magic missiles",
+          "Type": "Wand",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of the war mage, +1",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of web",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Weapon of warning",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Weapon, +1",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wind fan",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Winged boots",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        }
+      ],
+      "Rare": [
+        {
+          "Item": "Amulet of health",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Armor of resistance",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Armor of vulnerability",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Armor, +1",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Arrow-catching shield",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Belt of dwarvenkind",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Belt of hill giant strength",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Berserker axe",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Boots of levitation",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Boots of speed",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Bowl of commanding water elementals",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Bracers of defense",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Brazier of commanding fire elementals",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cape of the mountebank",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Censer of controlling air elementals",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cloak of displacement",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cloak of the bat",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cube of force",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Daern’s instant fortress",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dagger of venom",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dimensional shackles",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dragon slayer",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Elven chain",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (bronze griffon)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (ebony fly)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (golden lions)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (ivory goats)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (marble elephant)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (onyx dog)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (serpentine owl)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Flame tongue",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Gem of seeing",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Giant slayer",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Glamoured studded leather",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Helm of teleportation",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Horn of blasting",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Horn of Valhalla (silver or brass)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Instrument of the bards (Canaith mandolin)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Instrument of the bards (Cli lyre)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Ioun stone (awareness)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (protection)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (reserve)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (sustenance)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Iron bands of Bilarro",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mace of disruption",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Mace of smiting",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mace of terror",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Mantle of spell resistance",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Necklace of prayer beads",
+          "Type": "Wondrous item",
+          "Attune": "Yes (cleric, druid, or paladin)"
+        },
+        {
+          "Item": "Periapt of proof against poison",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ring of animal influence",
+          "Type": "Ring",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ring of evasion",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of feather falling",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of free action",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of protection",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of resistance",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of spell storing",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of the ram",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of X-ray vision",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Robe of eyes",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of rulership",
+          "Type": "Rod",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of the pact keeper, +2",
+          "Type": "Rod",
+          "Attune": "Yes (warlock)"
+        },
+        {
+          "Item": "Rope of entanglement",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Shield of missile attraction",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Shield, +2",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Staff of charming",
+          "Type": "Staff",
+          "Attune": "Yes (bard, cleric, druid, sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Staff of healing",
+          "Type": "Staff",
+          "Attune": "Yes (bard, cleric, or druid)"
+        },
+        {
+          "Item": "Staff of swarming insects",
+          "Type": "Staff",
+          "Attune": "Yes (bard, cleric, druid, sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Staff of the woodlands",
+          "Type": "Staff",
+          "Attune": "Yes (druid)"
+        },
+        {
+          "Item": "Staff of withering",
+          "Type": "Staff",
+          "Attune": "Yes (cleric, druid, or warlock)"
+        },
+        {
+          "Item": "Stone of controlling earth elementals",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Sun blade",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Sword of life stealing",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Sword of wounding",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Tentacle rod",
+          "Type": "Rod",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Vicious weapon",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of binding",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of enemy detection",
+          "Type": "Wand",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Wand of fear",
+          "Type": "Wand",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Wand of fireballs",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of lightning bolts",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of paralysis",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of the war mage, +2",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of wonder",
+          "Type": "Wand",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Weapon, +2",
+          "Type": "Weapon",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wings of flying",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        }
+      ],
+      "Very Rare": [
+        {
+          "Item": "Amulet of the planes ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Animated shield ",
+          "Type": "Armor ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Armor, +2 ",
+          "Type": "Armor ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Belt of fire giant strength ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Belt of giant strength (frost/stone) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Candle of invocation ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Carpet of flying ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Cloak of arachnida ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Crystal ball (very rare) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Dancing sword ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Demon armor ",
+          "Type": "Armor ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Dragon scale mail ",
+          "Type": "Armor ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Dwarven plate ",
+          "Type": "Armor ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Dwarven thrower ",
+          "Type": "Weapon ",
+          "Attune": "Yes (dwarf)"
+        },
+        {
+          "Item": "Efreeti bottle ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Figurine of wondrous power (obsidian steed) ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Frost brand ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Helm of brilliance ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Horn of Valhalla (bronze) ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Instrument of the bards (Anstruth harp) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Ioun stone (absorption) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (agility) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (fortitude) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (insight) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (intellect) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (leadership) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (strength) ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Manual of bodily health ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Manual of gainful exercise ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Manual of golems ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Manual of quickness of action ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Mirror of life trapping ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Nine lives stealer ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Oathbow ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of regeneration ",
+          "Type": "Ring ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of shooting stars ",
+          "Type": "Ring ",
+          "Attune": "Yes (outdoors at night)"
+        },
+        {
+          "Item": "Ring of telekinesis ",
+          "Type": "Ring ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Robe of scintillating colors ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Robe of stars ",
+          "Type": "Wondrous item ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of absorption ",
+          "Type": "Rod ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of alertness ",
+          "Type": "Rod ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of security ",
+          "Type": "Rod ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Rod of the pact keeper, +3 ",
+          "Type": "Rod ",
+          "Attune": "Yes (warlock)"
+        },
+        {
+          "Item": "Scimitar of speed ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Shield, +3 ",
+          "Type": "Armor ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Spellguard shield ",
+          "Type": "Armor ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Staff of fire ",
+          "Type": "Staff ",
+          "Attune": "Yes (druid, sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Staff of frost ",
+          "Type": "Staff ",
+          "Attune": "Yes (druid, sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Staff of power ",
+          "Type": "Staff ",
+          "Attune": "Yes (sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Staff of striking ",
+          "Type": "Staff ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Staff of thunder and lightning ",
+          "Type": "Staff ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Sword of sharpness ",
+          "Type": "Weapon ",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Tome of clear thought ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Tome of leadership and influence ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Tome of understanding ",
+          "Type": "Wondrous item ",
+          "Attune": "No"
+        },
+        {
+          "Item": "Wand of polymorph ",
+          "Type": "Wand ",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Wand of the war mage, +3 ",
+          "Type": "Wand ",
+          "Attune": "Yes (spellcaster)"
+        },
+        {
+          "Item": "Weapon, +3",
+          "Type": "Weapon",
+          "Attune": "No"
+        }
+      ],
+      "Legendary": [
+        {
+          "Item": "Apparatus of Kwalish",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Armor of invulnerability",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Armor, +3",
+          "Type": "Armor",
+          "Attune": "No"
+        },
+        {
+          "Item": "Belt of cloud giant strength",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Belt of storm giant strength",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cloak of invisibility",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Crystal ball (legendary)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Cubic gate",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Deck of many things",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Defender",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Efreeti chain",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Hammer of thunderbolts",
+          "Type": "Weapon",
+          "Attune": "Yes (Giant’s Bane)"
+        },
+        {
+          "Item": "Holy avenger",
+          "Type": "Weapon",
+          "Attune": "Yes (paladin)"
+        },
+        {
+          "Item": "Horn of Valhalla (iron)",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Instrument of the bards (Ollamh harp)",
+          "Type": "Wondrous item",
+          "Attune": "Yes (bard)"
+        },
+        {
+          "Item": "Ioun stone (greater absorption)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (mastery)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ioun stone (regeneration)",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Iron flask",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Luck blade",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Plate armor of etherealness",
+          "Type": "Armor",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of air elemental command",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of djinni summoning",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of earth elemental command",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of fire elemental command",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of invisibility",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of spell turning",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Ring of three wishes",
+          "Type": "Ring",
+          "Attune": "No"
+        },
+        {
+          "Item": "Ring of water elemental command",
+          "Type": "Ring",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Robe of the archmagi",
+          "Type": "Wondrous item",
+          "Attune": "Yes (sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Rod of lordly might",
+          "Type": "Rod",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Rod of resurrection",
+          "Type": "Rod",
+          "Attune": "Yes (cleric, druid, or paladin)"
+        },
+        {
+          "Item": "Scarab of protection",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Sphere of annihilation",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        },
+        {
+          "Item": "Staff of the magi",
+          "Type": "Staff",
+          "Attune": "Yes (sorcerer, warlock, or wizard)"
+        },
+        {
+          "Item": "Sword of answering",
+          "Type": "Weapon",
+          "Attune": "Yes (creature of same alignment as sword)"
+        },
+        {
+          "Item": "Talisman of pure good",
+          "Type": "Wondrous item",
+          "Attune": "Yes (creature of good alignment)"
+        },
+        {
+          "Item": "Talisman of the sphere",
+          "Type": "Wondrous item",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Talisman of ultimate evil",
+          "Type": "Wondrous item",
+          "Attune": "Yes (creature of evil alignment)"
+        },
+        {
+          "Item": "Tome of the stilled tongue",
+          "Type": "Wondrous item",
+          "Attune": "Yes (wizard)"
+        },
+        {
+          "Item": "Vorpal sword",
+          "Type": "Weapon",
+          "Attune": "Yes"
+        },
+        {
+          "Item": "Well of many worlds",
+          "Type": "Wondrous item",
+          "Attune": "No"
+        }
+      ]
+    }
+  }
