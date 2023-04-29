@@ -18,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "unit-test": "mocha --require @babel/register --recursive"
   },
   "eslintConfig": {
     "extends": [
@@ -37,5 +38,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.5",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/register": "^7.21.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.22"
   }
 }
