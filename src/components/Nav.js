@@ -19,6 +19,7 @@ class NavBar extends Component {
                 <Nav.Link href="/">Home</Nav.Link>
                 <Nav.Link href="/npc-names">NPC Names</Nav.Link>
                 <Nav.Link href="/encounters">Encounters</Nav.Link>
+                <Nav.Link href="/loot">Loot</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>
